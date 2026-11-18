@@ -16,6 +16,7 @@ Crio scripts e ferramentas que tiram trabalho manual da equipe de suporte:
 |---|---|
 | [ad-inactive-report](https://github.com/josemarcos-ti/ad-inactive-report) | Computadores e usuários inativos no AD em relatório HTML interativo |
 | [computer-list-validator](https://github.com/josemarcos-ti/computer-list-validator) | Valida uma lista de PCs em paralelo: online, domínio, usuário logado, disco |
+| [sccm-client-cleanup](https://github.com/josemarcos-ti/sccm-client-cleanup) | Remove e limpa o cliente SCCM corrompido, com painel HTML de execução e modo simulação |
 
 **Tecnologias:** PowerShell · Active Directory · Windows Server · WinForms · WinRM/CIM · API REST · HTML/CSS/JavaScript
 
